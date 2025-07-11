@@ -1,0 +1,24 @@
+# Ignore build output
+/build/
+/Release/
+/Debug/
+/snapshots/
+*.exe
+*.dll
+*.log
+*.vcxproj.user
+*.obj
+*.pdb
+*.ipch
+*.sdf
+*.tlog
+*.idb
+*.opensdf
+*.cache
+*.VC.db
+
+# Ignore CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
